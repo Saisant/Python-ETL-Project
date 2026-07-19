@@ -1,0 +1,22 @@
+﻿CustomerID,FirstName,LastName,Email,PhoneNumber,Gender,DateOfBirth,JoinDate,Salary,Department,City,State
+101,Sunny,Reddy,sunny.reddy@gmail.com,(987) 654-3210,Male,12-05-1998,15-01-2023,55000,IT,Hyderabad,Telangana
+102,Anitha,Sharma,ANITHA.SHARMA@GMAIL.COM,9876543211,Female,22-08-1995,10-11-2022,62000,HR,Bengaluru,Karnataka
+103,Rahul,Verma,rahul.verma@gmail.com,98765-43212,Male,18-03-1997,20-03-2023,58000,Finance,Chennai,Tamil Nadu
+104,Priya,,priya@gmail.com,9876543213,Female,14-09-1996,18-02-2023,61000,Sales,Hyderabad,Telangana
+105,Arjun,Kumar,,9876543214,Male,30-11-1999,12-05-2023,47000,IT,Vijayawada,Andhra Pradesh
+106,Neha,Patel,neha@gmail.com,9876543215,Female,,10-08-2022,53000,Marketing,Mumbai,Maharashtra
+107,Kiran,Rao,kiran@gmail.com,98765 43216,Male,01-07-1994,25-09-2021,-5000,IT,Pune,Maharashtra
+108,Rohit,Mehta,rohit@gmail.com,9876543217,Male,11-12-1993,15-04-2020,70000,Finance,Delhi,Delhi
+108,Rohit,Mehta,rohit@gmail.com,9876543217,Male,11-12-1993,15-04-2020,70000,Finance,Delhi,Delhi
+109,  Sneha  ,Gupta,sneha@gmail.com,9876543218,Female,21-06-1998,01-07-2023,51000,HR,Jaipur,Rajasthan
+110,Vikram,Joshi,vikram@gmail,9876543219,Male,10-10-1991,05-05-2019,85000,IT,Bhopal,Madhya Pradesh
+111,Asha,Nair,asha@gmail.com,98@76543220,Female,05-01-1997,10-10-2022,60000,Finance,Kochi,Kerala
+112,Manoj,Singh,manoj@gmail.com,,Male,04-04-1995,15-11-2021,57000,Sales,Lucknow,Uttar Pradesh
+113,Pooja,Das,pooja@gmail.com,9876543222,Female,20-02-1996,30-04-2023,0,HR,Kolkata,West Bengal
+114,Ramesh,Yadav,ramesh@gmail.com,9876543223,Male,18-06-1992,12-06-2018,92000,IT,Patna,Bihar
+115,Divya,Iyer,divya@gmail.com,9876543224,Female,25-08-1999,15-01-2024,64000,Marketing,Chennai,Tamil Nadu
+116,Amit,Shah,amit@gmail.com,9876543225,Male,15-12-1990,20-07-2017,105000,Finance,Ahmedabad,Gujarat
+117,Meena,Rani,meena@gmail.com,9876543226,Female,30-03-1998,01-08-2023,59000,Sales,Hyderabad,Telangana
+118,Ravi,Naidu,ravi@gmail.com,9876543227,Male,09-09-1994,18-06-2022,72000,IT,Visakhapatnam,Andhra Pradesh
+119,Kavya,Menon,kavya@gmail.com,9876543228,Female,11-11-1997,09-09-2023,65000,Marketing,Coimbatore,Tamil Nadu
+120,John,Smith,john@gmail.com,9876543229,Male,01-01-1993,10-01-2020,78000,Operations,Bengaluru,Karnataka

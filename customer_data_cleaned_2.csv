@@ -1,0 +1,18 @@
+CustomerID,FirstName,LastName,Email,PhoneNumber,Gender,DateOfBirth,JoinDate,Salary,Department,City,State,Full_name,SalaryBand,JoinMonth,Age
+101,Sunny,Reddy,sunny.reddy@gmail.com,+91 9876543210,M,05-12-1998,15-01-2023,55000,IT,Hyderabad,Telangana,SunnyReddy,Medium,January,28
+102,Anitha,Sharma,anitha.sharma@gmail.com,+91 9876543211,F,,10-11-2022,62000,HR,Bengaluru,Karnataka,AnithaSharma,Medium,November,
+103,Rahul,Verma,rahul.verma@gmail.com,+91 9876543212,M,,20-03-2023,58000,Finance,Chennai,Tamil Nadu,RahulVerma,Medium,March,
+106,Neha,Patel,neha@gmail.com,+91 9876543215,F,,10-08-2022,53000,Marketing,Mumbai,Maharashtra,NehaPatel,Medium,August,
+107,Kiran,Rao,kiran@gmail.com,+91 9876543216,M,07-01-1994,25-09-2021,-5000,IT,Pune,Maharashtra,KiranRao,Low,September,32
+108,Rohit,Mehta,rohit@gmail.com,+91 9876543217,M,12-11-1993,15-04-2020,70000,Finance,Delhi,Delhi,RohitMehta,Medium,April,33
+109,Sneha,Gupta,sneha@gmail.com,+91 9876543218,F,,01-07-2023,51000,HR,Jaipur,Rajasthan,SnehaGupta,Medium,July,
+110,Vikram,Joshi,vikram@gmail,+91 9876543219,M,10-10-1991,05-05-2019,85000,IT,Bhopal,Madhya Pradesh,VikramJoshi,High,May,35
+111,Asha,Nair,asha@gmail.com,+91 9876543220,F,01-05-1997,10-10-2022,60000,Finance,Kochi,Kerala,AshaNair,Medium,October,29
+113,Pooja,Das,pooja@gmail.com,+91 9876543222,F,,30-04-2023,0,HR,Kolkata,West Bengal,PoojaDas,Low,April,
+114,Ramesh,Yadav,ramesh@gmail.com,+91 9876543223,M,,12-06-2018,92000,IT,Patna,Bihar,RameshYadav,High,June,
+115,Divya,Iyer,divya@gmail.com,+91 9876543224,F,,15-01-2024,64000,Marketing,Chennai,Tamil Nadu,DivyaIyer,Medium,January,
+116,Amit,Shah,amit@gmail.com,+91 9876543225,M,,20-07-2017,105000,Finance,Ahmedabad,Gujarat,AmitShah,High,July,
+117,Meena,Rani,meena@gmail.com,+91 9876543226,F,,01-08-2023,59000,Sales,Hyderabad,Telangana,MeenaRani,Medium,August,
+118,Ravi,Naidu,ravi@gmail.com,+91 9876543227,M,09-09-1994,18-06-2022,72000,IT,Visakhapatnam,Andhra Pradesh,RaviNaidu,Medium,June,32
+119,Kavya,Menon,kavya@gmail.com,+91 9876543228,F,11-11-1997,09-09-2023,65000,Marketing,Coimbatore,Tamil Nadu,KavyaMenon,Medium,September,29
+120,John,Smith,john@gmail.com,+91 9876543229,M,01-01-1993,10-01-2020,78000,Operations,Bengaluru,Karnataka,JohnSmith,Medium,January,33
